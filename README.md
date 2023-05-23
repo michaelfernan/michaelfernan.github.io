@@ -21,10 +21,8 @@
     
  </div>
   <br>
-  <br>
-    <div align="center">
-  
-  ## Contato: 📧📞
+  <br>  
+  Contato: 📧📞
       
   <p>📧 E-mail: fernandes1michael@gmail.com</p>
   <p>📞 Telefone: +55 24 98141-1077</p>
