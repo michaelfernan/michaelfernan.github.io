@@ -25,10 +25,13 @@
    
     
 }
-img{
+.img{
     border-radius: 999px;
     float: right;
        
+}
+.nomeGif{
+    float: left;
 }
 .text{
     color: aliceblue;
