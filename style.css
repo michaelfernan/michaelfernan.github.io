@@ -1,20 +1,36 @@
+.back{
+    background-color: rgb(14, 13, 13);
+}
+.fundo{
+    background-image: url(TI.jpeg);
+    
+}
 .meuNome{
     text-align: center;
-    color: rgb(7, 85, 7);
+    color: rgb(231, 235, 231);
     font-family: cursive;
     font-size: 70px;
-
+    margin-top: -0px;
+   
+    
 
 }
 .descricao{
    text-align: justify;
+   color: white;
 }
 .resido{
     text-align: center;
+    color: white;
    
     
 }
 img{
     border-radius: 999px;
     float: right;
+       
 }
+.text{
+    color: aliceblue;
+}
+
