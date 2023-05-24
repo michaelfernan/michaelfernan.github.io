@@ -1,9 +1,20 @@
-#meuNome{
+.meuNome{
+    text-align: center;
+    color: rgb(7, 85, 7);
+    font-family: cursive;
+    font-size: 70px;
+
 
 }
-#descricao{
-
+.descricao{
+   text-align: justify;
 }
-#resido{
+.resido{
+    text-align: center;
+   
     
+}
+img{
+    border-radius: 999px;
+    float: right;
 }
