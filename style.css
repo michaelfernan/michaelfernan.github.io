@@ -35,5 +35,7 @@
 }
 .text{
     color: aliceblue;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
