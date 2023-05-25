@@ -11,9 +11,11 @@
     font-family: cursive;
     font-size: 70px;
     margin-top: -0px;
-   
-    
+}
 
+.meuNome:hover{
+    background-color: rgb(142, 226, 168);
+    color:black
 }
 .descricao,.resido {
    text-align: justify;
@@ -22,7 +24,7 @@
 .img{
     border-radius: 999px;
     float: right;
-       
+    padding: 10px;
 }
 .nomeGif{
     float: left;
