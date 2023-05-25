@@ -15,15 +15,9 @@
     
 
 }
-.descricao{
+.descricao,.resido {
    text-align: justify;
    color: white;
-}
-.resido{
-    text-align: center;
-    color: white;
-   
-    
 }
 .img{
     border-radius: 999px;
