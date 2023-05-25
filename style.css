@@ -25,6 +25,8 @@
     border-radius: 999px;
     float: right;
     padding: 10px;
+    background-color: rgb(37, 39, 37);
+    
 }
 .nomeGif{
     float: left;
@@ -34,4 +36,8 @@
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+ul li:nth-child(odd)  {
+    font-style: italic;
+    background-color: rgb(50, 50, 51);
+  
+  }
